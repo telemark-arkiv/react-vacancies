@@ -5,7 +5,7 @@ var VacancyItem = require('./VacancyItem');
 
 var VacanciesList = React.createClass({
   render: function() {
-    var limitLength = parseInt(this.props.limitLength, 10);
+    var limitLength = parseInt(this.props.limitLength || 20, 10);
 
     return (
       <ul className="vacanciesList">

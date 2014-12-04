@@ -1,0 +1,20 @@
+li {
+    list-style: none;
+}
+
+.vacancyItem {
+    background: url("../assets/images/stilling_ledig_icon.png") no-repeat;
+    padding-left: 50px;
+    width: 20%;
+    height: 100px;
+    float: left;
+}
+
+.vacancyTitle {
+    height: 50px;
+    display: block;
+}
+
+.vacancyDateDeadline {
+    vertical-align: text-bottom;
+}
