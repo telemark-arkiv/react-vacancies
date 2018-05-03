@@ -17,6 +17,6 @@
     "jquery": "3.3.1",
     "react": "0.12.2",
     "reactify": "0.17.1",
-    "uglify-js": "2.8.29"
+    "uglify-js": "3.3.23"
   }
 }
