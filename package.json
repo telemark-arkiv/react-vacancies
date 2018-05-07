@@ -15,7 +15,7 @@
     "browserify": "6.3.4",
     "envify": "3.4.1",
     "jquery": "3.3.1",
-    "react": "0.12.2",
+    "react": "16.3.2",
     "reactify": "1.1.1",
     "uglify-js": "3.3.23"
   }
