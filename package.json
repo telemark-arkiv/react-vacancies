@@ -12,7 +12,7 @@
     "build": "browserify --transform reactify index.js | node node_modules/.bin/uglifyjs -o vacancy-bundle.min.js"
   },
   "dependencies": {
-    "browserify": "16.2.2",
+    "browserify": "16.2.3",
     "envify": "3.4.1",
     "jquery": "3.3.1",
     "react": "0.14.9",
