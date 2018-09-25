@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "browserify": "16.2.3",
-    "envify": "3.4.1",
+    "envify": "4.1.0",
     "jquery": "3.3.1",
     "react": "0.14.9",
     "reactify": "1.1.1",
